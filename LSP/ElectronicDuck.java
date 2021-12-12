@@ -1,4 +1,4 @@
-package com.directi.training.lsp.exercice_refactored;
+package lsp;
 
 public class ElectronicDuck implements DuckInterface {
 

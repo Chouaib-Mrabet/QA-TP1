@@ -1,4 +1,4 @@
-package com.directi.training.isp.exercice_refactored;
+package isp;
 
 interface TimedDoor {
   public void timeOutCallback();

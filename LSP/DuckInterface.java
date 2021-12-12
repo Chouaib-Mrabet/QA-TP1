@@ -1,4 +1,4 @@
-package com.directi.training.lsp.exercice_refactored;
+package lsp;
 
 public interface DuckInterface {
   public void quack() throws DuckInterfaceException;

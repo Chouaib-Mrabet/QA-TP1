@@ -1,4 +1,4 @@
-package com.directi.training.srp.exercice_refactored;
+package srp;
 
 public class CarManager {
 
